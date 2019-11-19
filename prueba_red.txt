@@ -1,0 +1,7 @@
+prueba_red txt
+
+otra linea
+
+	linea con sangria
+
+	linea con 1,2,3,4,5 numeros :v

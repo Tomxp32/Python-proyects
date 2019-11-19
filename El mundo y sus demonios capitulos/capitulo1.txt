@@ -1,0 +1,9 @@
+
+
+	'''El mundo y sus demonios. La ciencia como una luz en la oscuridad, es un libro de Carl Sagan publicado en 1995 que intenta explicar el método científico al ciudadano corriente, y anima a los lectores a utilizar el pensamiento crítico o escéptico.
+
+	El libro en general, es una reflexión contra la pseudociencia, pero más específicamente, es una defensa profunda y muy acertada de todos los enormes beneficios que la ciencia ha producido a lo largo de la historia (vacunas, antibióticos, medicamentos, aviación, etc.). Así mismo y sin perder nunca el suelo, Sagan en uno de sus capítulos hace referencia al mal uso que se ha hecho de la ciencia, y enfatiza que en buen nivel se debió a la "ingenuidad" de aquellos científicos que lo permitieron (ej. Proyecto Manhattan), dejando entonces muy claro que la investigación científica no solo tiene un marco moral o ético de procedimientos (metodología científica estricta), sino que el científico además, debe tener una idea muy clara del impacto que pudiesen tener en la sociedad sus investigaciones.
+
+	Sagan explica métodos muy útiles que ayudarían al lector a poder distinguir entre las ideas que provienen de una ciencia genuina, de las que solo parecen simularla bastante bien: pseudociencia. También indica, que cuando se plantea una nueva idea, ésta debiera considerarse como posible solamente, entonces, tendría que ser probada muy rigurosamente, y luego solo así, aceptarse. El pensamiento escéptico, dice, nos da medios para construir, entender y razonar, para reconocer ideas válidas o erróneas hasta donde la verificación sea posible.
+
+	En alguno de sus capítulos tiene argumentos fuertes que hacen una crítica dura contra el sistema educativo estadounidense de los noventas.'''

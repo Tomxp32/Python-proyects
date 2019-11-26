@@ -1,3 +1,5 @@
+# CLase 1 Logica
+
 clase_1 = '''
 			
 	Demostración en matemática
@@ -37,7 +39,7 @@ clase_1 = '''
 
 		El dominio de los enteros:
 
-		* Usaando implicaciones: El cubo de todos loe enteros negativos es negativo.
+		* Usando implicaciones: El cubo de todos los enteros negativos es negativo.
 
 		Ax (x < 0) -> (x^3 < 0)
 
@@ -140,7 +142,11 @@ def clases (clase):
 	if clase == '1':
 		print('\n\tClase 5 xd')
 		print(clase_1)
-
+		read = input('\n\tDid you read the whole class?: ')
+		if read == 'y':
+			print('\n\tNiiiice!!!!!!')
+		else:
+			print("\n\tYare yare daze, until when do you think you'll have time")
 def clase1 ():
 	print('\n\tWeeeey si funciono!!!! - Clase 1')
 

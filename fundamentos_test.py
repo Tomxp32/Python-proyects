@@ -1,16 +1,16 @@
 def principal ():
-	a = input('\nQuieres hacer un test sobre la clase 1? ')
+	a = input('\n\tQuieres hacer un test sobre la clase 1? ')
 
 	if a == 'y':
-		print('\nEscribe las respuestas correctas')
-		print('\n1. Que es un sistema de informacion')
+		print('\n\tEscribe las respuestas correctas')
+		print('\n\t1. Que es un sistema de informacion')
 		input('\n\t: ')
-		print('''\n\t
-			Es un tipo especializado de sistema. Conjunto de elementos que interactuan entre 
-			si con el fin de apoyar las actividades de una empresa o negocio.''')
+		print('''
+		Es un tipo especializado de sistema. Conjunto de elementos que interactuan entre 
+		si con el fin de apoyar las actividades de una empresa o negocio.''')
 		print('\n2. Cuales son los componentes de un sistema de informacion')
 		input('\n\t: ')
-		print('''\n\t
+		print('''
 		* Entrada: 
 		* Procesamiento: 
 		* Salida: 
@@ -19,7 +19,7 @@ def principal ():
 		Datos -> Sistema -> Informacion
 			''')
 
-		print('\n3. Elementos de un sistema de informacion')
+		print('\n\t3. Elementos de un sistema de informacion')
 		input('\n\t: ')
 		print('''
 		* Equipo computacional
@@ -31,46 +31,46 @@ def principal ():
 		* Procedimientos
 			''')
 
-		print('\n4. Describe los procedimientos')
+		print('\n\t4. Describe los procedimientos')
 		input('\n\t: ')
 		print('''	
-			Que incluyen las politicas y reglas de operacion, tanto en lo funcional, como 
-			en los mecanismos para hacer trabajar una app''')
+		Que incluyen las politicas y reglas de operacion, tanto en lo funcional, como 
+		en los mecanismos para hacer trabajar una app''')
 
-		print('\n5. Cuales son las actividades basicas de un SI')
+		print('\n\t5. Cuales son las actividades basicas de un SI')
 		input('\n\t: ')
 		print('''
-			* Entrada de datos
-			* Almacenamiento de datos
-			* Procesamientos
-			* Salida de informacion
+		* Entrada de datos
+		* Almacenamiento de datos
+		* Procesamientos
+		* Salida de informacion
 			''')
 
-		print('\n6. Describe la entrada de datos')
+		print('\n\t6. Describe la entrada de datos')
 		input('\n\t: ')
 		input('\t: ')
-		print('\n7. Describe el almacenamiento de datos')
+		print('\n\t7. Describe el almacenamiento de datos')
 		input('\n\t: ')
 		input('\t: ')
-		print('\n8. Describe el procesamiento de datos')
+		print('\n\t8. Describe el procesamiento de datos')
 		input('\n\t: ')
 		input('\t: ')
-		print('\n9. Describe la salida de informacion')
+		print('\n\t9. Describe la salida de informacion')
 		input('\n\t: ')
 		input('\t: ')
 		res = input('\n\tQuieres volver al inicio? ')
 		if res == 'y':
 			principal()
 	elif a == 'n':
-		print('1. Volver al inicio')
-		print('2. Salir del programa')
-		r = input('Respuesta: ')
+		print('\n\t1. Volver al inicio')
+		print('\n\t2. Salir del programa')
+		r = input('\n\tRespuesta: ')
 		if r == '1':
 			principal()
 		else:
-			print('Fin del programa')
+			print('\n\tFin del test sobre la primer leccion de fundamentos de sistemas')
 
-principal()
+
 
 
 

@@ -1,17 +1,7 @@
 import time
-#from math_main.clases.clase1 import *
-#from math_main.clases.clase2 import *
 from homeworks import *
 from math_main.math import *
-#from math_main.math import *
-#from math_main import clases
-
-clase1()
-clase2()
-math(' Omamori himari :v')
-cmath()
-
-tim = 0
+from extra_main.extra import *
 
 print('\n\t',time.asctime())
 print("\n\tHello, I'm Heuristically Programmed Algorithmic Computer also know as Hal 9000")
@@ -29,6 +19,7 @@ def hal():
 		if home == '1':
 			print('\n\tWatch a video about logical quantifiers')
 			print("\n\tYou haven't programmed anything yet >:v lazy")
+			principal()
 			hal()
 		elif home == 'help':
 			print('\n\tSubjects')
@@ -38,11 +29,7 @@ def hal():
 			print('\t4. Operating systems')
 			hal()
 		elif home == '2':
-			print("\n\tcheck the classes of this subject that you don't know")
-			print('\n\tDios no existe :v')
-			print("\n\tYou haven't programmed anything yet >:v lazy")
-			clases('1')
-
+			math()
 			hal()
 		elif home == '3':
 			print('''
@@ -59,6 +46,9 @@ def hal():
 		print('\n\tRead a book, and do not waste your time in social networks')
 		print("\n\tYou haven't programmed anything yet >:v lazy")
 		hal()
+	elif make == 'extra':
+			extra()
+			hal()
 	elif make == '3':
 		print("\n\tKill 'em all")
 		print("\n\tYou haven't programmed anything yet >:v lazy")
@@ -70,7 +60,8 @@ def hal():
 	And then one day you find ten years have got behind you.
 	No one told you when to run, you missed the starting gun.
 			''')
-		print('\n\t',time.asctime()) 
+		print('\n\t',time.asctime())
+		christmas()
 		hal()
 
 	elif make == 'homeworks':
@@ -85,6 +76,7 @@ def hal():
 		print('\t1. First semester subjects')
 		print('\t2. Make you better')
 		print('\t3. Seek and destroy')
+		print('\t4. Homeworks')
 		hal()
 	
 	elif make == 'who are you':
